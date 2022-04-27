@@ -1,6 +1,8 @@
 Test Case and Test Module at link: https://docs.google.com/spreadsheets/d/1JnmptdLDz9O6Gr9TZhKFUSkUl4tmoKlW8uW736Wm7S4/edit?usp=sharing 
 
-Video project final at link: https://drive.google.com/file/d/1QTkegf_9w2ewrIZ7y9n7MIXcoXQwd9jG/view?usp=sharing 
+Video project final at link 1: https://www.youtube.com/watch?v=j_VWqqoW8w0
+
+Video project final at link 2: https://drive.google.com/file/d/1QTkegf_9w2ewrIZ7y9n7MIXcoXQwd9jG/view?usp=sharing 
 
 [page-object-python-selenium] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial
 
